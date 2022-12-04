@@ -1,7 +1,9 @@
 let handler = async m => m.reply(`
-            .✵.𝗚𝗥𝗨𝗣 𝗣𝗘𝗡𝗧𝗔𝗕𝗢𝗧.✵.
-
-            https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2
+╭─「 Donasi • Pulsa 」
+│ •  [0816-4682-9895]
+│   「 Donasi • Dana」
+│ •  [0895-3170-4997]
+╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
 handler.tags = ['info']
